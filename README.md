@@ -1,20 +1,22 @@
-# SuGrain Organization Configuration
+# SuGrain 组织配置
 
-This repository contains the organization-wide GitHub configurations and profile for SuGrain.
+本仓库包含SuGrain组织的GitHub全局配置和组织档案。
 
-## What's Inside
+## 内容说明
 
-- `profile/README.md` - Organization profile page with categorized repository display
-- Organization-wide GitHub workflows and templates (to be added)
-- Issue and pull request templates (to be added)
+- `profile/README.md` - 组织档案页面，包含分类的仓库展示
+- 组织级别的GitHub工作流和模板（待添加）
+- 问题和拉取请求模板（待添加）
 
-## About SuGrain
+## 关于 SuGrain
 
-SuGrain focuses on IoT solutions and smart grain management systems. Visit our [organization profile](https://github.com/SuGrain) to see all our categorized repositories.
+SuGrain专注于物联网解决方案和智慧粮食管理系统。我们致力于通过先进技术推动农业现代化，涵盖人工智能、传感器技术和全栈开发。访问我们的[组织主页](https://github.com/SuGrain)查看所有分类仓库。
 
-## Repository Categories
+## 仓库分类
 
-Our repositories are organized into:
-- **Backend Services** - Java-based microservices for IoT and grain management
-- **Frontend Applications** - User interfaces and mini-programs  
-- **Configuration & Infrastructure** - GitHub configurations and deployment scripts
+我们的仓库按以下方式组织：
+- **后端服务** - 面向物联网和粮食管理的Java微服务
+- **前端应用程序** - 用户界面和小程序应用
+- **人工智能与机器学习** - 深度学习和计算机视觉项目
+- **传感器与检测** - 激光雷达和传感器数据处理
+- **配置与基础设施** - GitHub配置和部署脚本
